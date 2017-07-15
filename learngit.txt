@@ -1,1 +1,2 @@
 This is a text about how to learn git!
+This line text is added newly!
